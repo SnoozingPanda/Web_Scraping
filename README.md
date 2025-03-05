@@ -1,1 +1,1 @@
-# Web_Scraping
+Ce repo contient quelques exercices simples autour du web scraping
